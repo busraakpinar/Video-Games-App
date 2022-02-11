@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Video Games App</string>
+    <string name="hello_from_first_fragment">First Fragment</string>
+    <string name="hello_from_search_fragment">Search Fragment</string>
+    <string name="button_to_search_fragment">Go to Search Fragment</string>
+    <string name="button_to_first_fragment">Go to First Fragment</string>
+    <string name="ratings_and_release_string">%1$.2f - %2$s</string>
+    <string name="searched_games_not_found">Üzgünüz, aradığınız oyun bulunamadı!</string>
+</resources>
